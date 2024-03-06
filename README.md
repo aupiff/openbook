@@ -38,6 +38,5 @@ Warriors ML | 1.6 | 1.66
 - 10% LBP (All USDC raised used to provide liquidity in DEX pool)
 - 10% Team allocation
 - 30% prizes & marketing (Distributed to participants in daily, weekly &
-  monthly
-- competitions)
+  monthly competitions)
 - 20% Airdrop to early users of the platform
