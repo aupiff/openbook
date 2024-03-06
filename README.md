@@ -40,3 +40,10 @@ Warriors ML | 1.6 | 1.66
 - 30% prizes & marketing (Distributed to participants in daily, weekly &
   monthly competitions)
 - 20% Airdrop to early users of the platform
+
+## Timeline
+
+- Platform launch in April 2024
+- Initial testing and user acquisition for 1.5mo
+- LBP in May, & token launch immediately after
+- 12 month linear vest w/ 3 month cliff post-LBP
