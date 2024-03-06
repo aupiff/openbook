@@ -46,4 +46,4 @@ Warriors ML | 1.6 | 1.66
 - Platform launch in April 2024
 - Initial testing and user acquisition for 1.5mo
 - LBP in May, & token launch immediately after
-- 12 month linear vest w/ 3 month cliff post-LBP
+- 12 month linear vest for private sale participants w/ 3 month cliff post-LBP
