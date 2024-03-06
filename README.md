@@ -1,9 +1,9 @@
 # openbook
 
 An arbitrum-based sportsbook accepting bets in USDC. At first, openbook will
-support major conventional sports at launch (football, american football,
-tennis, basketball, baseball, MMA, etc.), followed by esports & eventually
-simulated sports where the participants are AIs.
+support major conventional sports (football, american football, tennis,
+basketball, baseball, MMA, etc.), followed by esports & eventually simulated
+sports where the participants are AIs.
 
 Simulated sports are critical in order to always have high-quality streams
 (of e.g. AI Rocket League or Starcraft) available on the platform for users to
