@@ -35,12 +35,14 @@ Warriors ML | 1.6 | 1.66
 ## $OBK token distribution
 
 - 10% private token sale @ 2.5M initial valuation (250k raise)
-- 15% LBP (75% USDC raised used to provide liquidity in DEX pool, 25% added 
-  to house funds to increase max bet)
-- 10% Team allocation
-- 40% prizes & marketing (Distributed to participants in daily, weekly &
+- 25% prizes & marketing (distributed to participants in daily, weekly &
   monthly competitions)
-- 25% Airdrop to early users of the platform
+- 15% Airdrop to early users of the platform
+- 15% LBP (75% USDC raised used to provide liquidity in DEX pool, 25% added to
+  house funds to increase max bet)
+- 15% Protocol-owned liquidity
+- 15% Team allocation
+- 5% Development fund
 
 ## Timeline
 
